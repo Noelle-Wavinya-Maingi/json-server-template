@@ -69,9 +69,7 @@
       "ingredients": "Pizza dough, tomato sauce, vegan cheese, mushrooms, bell peppers, olives, onions",
       "instructions": "1. Preheat the oven to the recommended temperature for your pizza dough.\n2. Roll out the pizza dough into a round shape.\n3. Spread tomato sauce evenly over the dough.\n4. Sprinkle a generous amount of vegan cheese on top.\n5. Add sliced mushrooms, bell peppers, olives, and onions as desired.\n6. Bake the pizza in the preheated oven for the recommended time or until the crust is golden and the cheese is melted.\n7. Remove from the oven, let it cool for a few minutes, and slice. Enjoy your tasty Vegan Pizza!",
       "time_taken": "Preparation: 15 minutes\nBaking: 15-20 minutes"
-    }
-  ],
-  "Italian": [
+    },
     {
       "id": "11",
       "name": "Caprese Salad",
